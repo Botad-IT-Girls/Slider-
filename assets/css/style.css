@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vh;
+  margin: 0 auto;
+}
+
+/* Slick Slider */
+
+.slick-slider {
+  width: 100%;
+  max-width: 1000px;
+}
+
+.slick-slider img {
+  width: 100%;
+}
